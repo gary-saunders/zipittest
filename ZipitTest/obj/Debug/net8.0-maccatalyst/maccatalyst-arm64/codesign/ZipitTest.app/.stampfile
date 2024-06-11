@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/garysaunders/ZipitTest/ZipitTest/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/garysaunders/ZipitTest/ZipitTest/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/ZipitTest.app
